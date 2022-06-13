@@ -1,9 +1,9 @@
 ---
-bio: Neuroscience Undergraduate Student, Researcher 
+title: "Skyler Sung"
 education:
-  courses:
-email: "ssung23@amherst.edu"
-highlight_name: true
+  courses: null
+email: ssung23@amherst.edu
+highlight_name: yes
 interests:
 - Microbiology x Neuroscience
 - Transnational Research
@@ -26,8 +26,8 @@ social:
 - icon: camera-alt
   icon_pack: fas
   link: https://skylersung.com/
-superuser: true
-title: Skyler Sung
+superuser: yes
+bio: Neuroscience Undergraduate Student, Researcher
 ---
 
 Skyler Sung is a Neuroscience undergraduate and researcher at Amherst College. His past research experiences include prokaryote-eukaryote symbioses, microbiology, and computational genomics. He is currently working in [Alexandra Purdy](http://www.apurdylab.org/)'s lab studying bacterial metabolic pathways in *Vibrio fischeri*.
