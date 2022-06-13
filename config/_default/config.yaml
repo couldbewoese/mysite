@@ -5,7 +5,7 @@ ptheme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Skyler Sung # Website name
-baseurl: 'http://skylersung.app' # Website URL
+baseurl: 'http://skylersung.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE

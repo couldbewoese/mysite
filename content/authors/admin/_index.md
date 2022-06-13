@@ -2,16 +2,16 @@
 bio: Neuroscience Undergraduate Student, Researcher 
 education:
   courses:
-email: ""
+email: "ssung23@amherst.edu"
 highlight_name: true
 interests:
-- Microbiology x Neuroscience 
+- Microbiology x Neuroscience
 - Transnational Research
 - Photography
 - Hiking
 organizations:
 - name: Amherst College
-  url: https://www.Amherst.edu/
+  url: https://www.amherst.edu/
 role: Student, Researcher
 social:
 - icon: envelope
