@@ -1,7 +1,7 @@
 ---
 title: "Skyler Sung"
 education:
-  courses: null
+  courses: BA in Neuroscience, Amherst College
 email: ssung23@amherst.edu
 highlight_name: yes
 interests:
