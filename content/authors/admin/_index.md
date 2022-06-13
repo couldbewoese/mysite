@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Neuroscience Undergraduate Student, Researcher 
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -21,7 +20,7 @@ interests:
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Student, Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Skyler Sung
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
