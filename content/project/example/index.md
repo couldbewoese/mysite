@@ -1,21 +1,16 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2021-08-08T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+slides: #example
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
-title: Example Project
+title: Functional Annotation of *Candida auris* Genome Using Funannotate
 url_code: ""
-url_pdf: ""
+url_pdf: "content/project/example/example.pdf"
 url_slides: ""
 url_video: ""
 ---
