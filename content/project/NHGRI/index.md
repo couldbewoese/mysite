@@ -5,13 +5,13 @@ image:
   caption: Photo by Dr_Microbe on Getty Images
   focal_point: Smart
 slides: #example
-summary: An example of using the in-built project page.
+summary: #An example of using the in-built project page.
 tags:
 - NHGRI
 - NIH
 - Candida auris
 - Computational biology
-title: 22Functional Annotation of _Candida auris_ Genome Using Funannotate
+title: Functional Annotation of Candida auris Genomes Using Funannotate
 url_code: ""
 url_pdf: "content/project/NHGRI/NHGRI.pdf"
 url_slides: ""
@@ -23,4 +23,6 @@ In the Segre Lab at the NHGRI, I worked with *Candida auris* nanopore and RNA se
 I presented my findings to the Transnational and Functional Genomics Branch of the NHGRI and at the NIH summer poster session. 
 
 - [Poster](NHGRI.pdf)
+- [Annotation Code - Github](https://github.com/couldbewoese/funannotate_script.git)
+- [Student Summer Research Highlights - Amherst STEM Network](https://www.amherststemnetwork.com/2021/06/25/fighting-a-fungal-pathogen-by-inspecting-the-genome/)
 
