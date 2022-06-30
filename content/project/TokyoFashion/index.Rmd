@@ -1,0 +1,30 @@
+---
+date: "2022-06-30T00:00:00Z"
+external_link: ""
+image:
+  caption: 
+  focal_point: 
+slides: #example
+summary: An example of using the in-built project page.
+tags:
+- Tokyo
+title: The Disruptive Force of the Big Three of Japanese Fashion and Why They Had to Emerge from Tokyo
+url_code: ""
+url_pdf: "content/project/TokyoFashion/TokyoFashion.pdf"
+url_slides: ""
+url_video: ""
+---
+
+An essay written for my Architecture/Asian Languages & Civilizations course that explores how Tokyo and Japan's spaces influenced the "Big Three" designers (Issey Miyake, Kawakubo Rei, and Yohji Yamamoto) that revolutionized the global fashion scene after their 1980's debuts in Paris. 
+
+Essay available [here](TokyoFashion.pdf)
+```{r echo=FALSE}
+xfun::embed_file("TokyoFashion.pdf")
+```
+```{r echo=FALSE}
+<object data="http://https://skylersung.netlify.app/TokyoFashion.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://skylersung.netlify.app//TokyoFashion.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://skylersung.netlify.app//TokyoFashion.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+```

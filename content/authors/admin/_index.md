@@ -27,7 +27,7 @@ superuser: yes
 bio: Neuroscience Undergraduate Student, Researcher
 ---
 
-Skyler Sung is a Neuroscience undergraduate and researcher at Amherst College. His research experiences have involved host-microbe symbioses, microbiology, and computational genomics. He is currently working in [Alix Purdy](http://www.apurdylab.org/)'s lab studying bacterial metabolic pathways in *Vibrio fischeri*.
+Skyler Sung is a senior Neuroscience undergraduate and researcher at Amherst College. His research experiences have involved host-microbe symbioses, microbiology, and computational genomics. He is currently working in [Alix Purdy](http://www.apurdylab.org/)'s lab studying bacterial metabolic pathways in *Vibrio fischeri*.
 
 He first formed an interest in host-microbe interactions while studying the mono-specific mutualism between the Hawaiian bobtail squid and *Vibrio fischeri* in the [McFall-Ngai/Ruby](https://www.glowingsquid.org/index.php) labs. He gained a greater appreciation of the clinical implications of studying bacterial residents on humans during a summer at the NHGRI in [Julie Segre](https://www.genome.gov/staff/Julie-Segre-PhD)'s lab. He worked closely with [Diana Proctor](https://dmap02.github.io/personal-website/index.html) to develop computational biology skills and annotate fungal pathogen *Candida auris*'s genome from a hospital outbreak in the US. 
 

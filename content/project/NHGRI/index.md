@@ -18,7 +18,7 @@ url_slides: ""
 url_video: ""
 ---
 
-In the Segre Lab at the NHGRI, I worked with *Candida auris* nanopore and RNA sequences from a US hospital outbreak to develop an in-house annotation pipeline for the fungus's genome that utilizes [Funannotate](https://github.com/nextgenusfs/funannotate). Annotation of the genome is a critical step in finding pathogenic features and differences between clades. I tested several training parameters and compared the outputs of my annotations to those made by NISC (NIH Intramural Sequencing Center) and available in NCBI's GenBank.
+In the [Segre Lab](https://www.genome.gov/staff/Julie-Segre-PhD) at the NHGRI, I worked with *Candida auris* nanopore and RNA sequences from a US hospital outbreak to develop an in-house annotation pipeline for the fungus's genome that utilizes [Funannotate](https://github.com/nextgenusfs/funannotate). Annotation of the genome is a critical step in finding pathogenic features and differences between clades. I tested several training parameters and compared the outputs of my annotations to those made by NISC (NIH Intramural Sequencing Center) and available in NCBI's GenBank.
 
 I presented my findings to the Transnational and Functional Genomics Branch of the NHGRI and at the NIH summer poster session. 
 
