@@ -13,8 +13,8 @@ image:
   preview_only: false
 lastmod: "2022-08-01T00:00:00Z"
 projects: []
-subtitle: "Highlighted readings I enjoy or found profound"
-summary: ""
+subtitle: ""
+summary: "Highlighted readings I found interesting and/or relevant to my study"
 tags:
 - Academic
 - Literature
@@ -43,6 +43,8 @@ Proctor, D. M., Dangana, T., Sexton, D. J., Fukuda, C., Yelin, R. D., Stanley, M
 
 #### Microbiota-gut-brain axis 
 Mohajeri, M. H., La Fata, G., Steinert, R. E., & Weber, P. (2018). Relationship between the gut microbiome and brain function. Nutrition reviews, 76(7), 481–496. https://doi.org/10.1093/nutrit/nuy009
+
+García-Cabrerizo, R., Carbia, C., O Riordan, K. J., Schellekens, H., & Cryan, J. F. (2021). Microbiota-gut-brain axis as a regulator of reward processes. Journal of neurochemistry, 157(5), 1495–1524. https://doi.org/10.1111/jnc.15284
 
 González-Arancibia, C., Urrutia-Piñones, J., Illanes-González, J., Martinez-Pinto, J., Sotomayor-Zárate, R., Julio-Pieper, M., & Bravo, J. A. (2019). Do your gut microbes affect your brain dopamine?. Psychopharmacology, 236(5), 1611–1622. https://doi.org/10.1007/s00213-019-05265-5
 
