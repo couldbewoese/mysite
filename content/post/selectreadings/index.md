@@ -14,7 +14,7 @@ image:
 lastmod: "2022-08-01T00:00:00Z"
 projects: []
 subtitle: "Highlighted readings I enjoy or found profound"
-summary: "Wzz"
+summary: ""
 tags:
 - Academic
 - Literature
@@ -50,5 +50,10 @@ Cohen MA, Botch TL, Robertson CE. The limits of color awareness during active, r
 Cohen MA, Ostrand C, Frontero N, Pham PN. Characterizing a snapshot of perceptual experience. J Exp Psychol Gen. 2021 Sep;150(9):1695-1709. doi: 10.1037/xge0000864. Epub 2021 Feb 1. PMID: 33523689.
 
 ### Neuro Case Studies
+[Craniopagus twins connected by a thalamus bridge: sharing sensory experiences?](https://www.nytimes.com/2011/05/29/magazine/could-conjoined-twins-share-a-mind.html)
+
+[Auguste D. (patient) & Aloysius Alzheimer: First behavioral and cellular characterizations of Alzheimer's Disease](https://alzheimer.neurology.ucla.edu/pubs/alzheimerLancet.pdf) 
+- See also: [Scientific misconduct in AD research](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease#sidebar)
+
 
 
