@@ -4,7 +4,7 @@ email: ssung23@amherst.edu
 highlight_name: yes
 interests:
 - Microbiology x Neuroscience 
-- Photography
+- Photography ([site](https://www.skylersung.com))
 - Hiking
 organizations:
 - name: Amherst College
