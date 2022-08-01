@@ -27,9 +27,9 @@ superuser: yes
 bio: Neuroscience Undergraduate Student, Researcher
 ---
 
-Skyler Sung is a senior Neuroscience undergraduate and researcher at Amherst College. His research experiences have involved host-microbe symbioses, microbiology, and computational genomics. Currently, he is conducting thesis research in a new field, visual experience, with [Michael Cohen](http://www.michaelacohen.net/research-interests.html). 
+Skyler Sung is a senior Neuroscience undergraduate and researcher at Amherst College. His research experiences have involved host-microbe symbioses, microbiology, and computational genomics. Currently, he is conducting thesis research in visual perception with [Michael Cohen](http://www.michaelacohen.net/research-interests.html).
 
-He first formed an interest in host-microbe interactions while studying the mono-specific mutualism between the Hawaiian bobtail squid and *Vibrio fischeri* in the [McFall-Ngai/Ruby](https://www.glowingsquid.org/index.php) labs. He spent his second and third year in college working in [Alix Purdy](http://www.apurdylab.org/)'s lab studying bacterial metabolic pathways in *Vibrio fischeri*. 
+He first formed an interest in host-microbe interactions while studying the mono-specific mutualism between the Hawaiian bobtail squid and *Vibrio fischeri* in the [McFall-Ngai/Ruby](https://www.glowingsquid.org/index.php) labs. There, he transformed fluorescence labels into strains to compare strain colonization efficiencies via confocal microscopy. He spent his second and third year in college working in [Alix Purdy](http://www.apurdylab.org/)'s lab studying colonization-relevant metabolic pathways in *Vibrio fischeri*. 
 In the summer of 2021, he gained a greater appreciation of the clinical implications of studying bacterial residents on and in humans at the NHGRI in [Julie Segre](https://www.genome.gov/staff/Julie-Segre-PhD)'s lab. He worked closely with [Diana Proctor](https://dmap02.github.io/personal-website/index.html) to develop computational biology skills and annotate fungal pathogen *Candida auris*'s genome from a hospital outbreak in the US. 
 
 
