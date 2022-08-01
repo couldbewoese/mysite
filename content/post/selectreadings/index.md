@@ -24,36 +24,43 @@ title: Selected Readings
 ## By Topic
 ### Host-microbe interactions
 #### Mutualism
-Bosch TC, McFall-Ngai MJ. Metaorganisms as the new frontier. Zoology (Jena). 2011 Sep;114(4):185-90. doi: 10.1016/j.zool.2011.04.001. Epub 2011 Jul 6. PMID: 21737250; PMCID: PMC3992624.
+Bosch, T. C., & McFall-Ngai, M. J. (2011). Metaorganisms as the new frontier. Zoology (Jena, Germany), 114(4), 185–190. https://doi.org/10.1016/j.zool.2011.04.001
 
-Margaret J. McFall-Ngai, Jason E. Podrabsky, Jonathon H. Stillman, Lars Tomanek; Giving microbes their due – animal life in a microbially dominant world. J Exp Biol 1 June 2015; 218 (12): 1968–1973. doi: https://doi.org/10.1242/jeb.115121
+McFall-Ngai M. J. (2015). Giving microbes their due--animal life in a microbially dominant world. The Journal of experimental biology, 218(Pt 12), 1968–1973. https://doi.org/10.1242/jeb.115121
 
-Nyholm SV, McFall-Ngai MJ. The winnowing: establishing the squid-vibrio symbiosis. Nat Rev Microbiol. 2004 Aug;2(8):632-42. doi: 10.1038/nrmicro957. PMID: 15263898.
+Nyholm, S. V., & McFall-Ngai, M. J. (2004). The winnowing: establishing the squid-vibrio symbiosis. Nature reviews. Microbiology, 2(8), 632–642. https://doi.org/10.1038/nrmicro957
 
-Essock-Burns T, Bongrand C, Goldman WE, Ruby EG, McFall-Ngai MJ. Interactions of Symbiotic Partners Drive the Development of a Complex Biogeography in the Squid-Vibrio Symbiosis. mBio. 2020 May 26;11(3):e00853-20. doi: 10.1128/mBio.00853-20. PMID: 32457244; PMCID: PMC7251207.
-
-Hang S, Purdy AE, Robins WP, Wang Z, Mandal M, Chang S, Mekalanos JJ, Watnick PI. The acetate switch of an intestinal pathogen disrupts host insulin signaling and lipid metabolism. Cell Host Microbe. 2014 Nov 12;16(5):592-604. doi: 10.1016/j.chom.2014.10.006. Epub 2014 Nov 12. PMID: 25525791; PMCID: PMC4272434.
+Essock-Burns, T., Bongrand, C., Goldman, W. E., Ruby, E. G., & McFall-Ngai, M. J. (2020). Interactions of Symbiotic Partners Drive the Development of a Complex Biogeography in the Squid-Vibrio Symbiosis. mBio, 11(3), e00853-20. https://doi.org/10.1128/mBio.00853-20
 
 #### Parasitism
-Hang S, Purdy AE, Robins WP, Wang Z, Mandal M, Chang S, Mekalanos JJ, Watnick PI. The acetate switch of an intestinal pathogen disrupts host insulin signaling and lipid metabolism. Cell Host Microbe. 2014 Nov 12;16(5):592-604. doi: 10.1016/j.chom.2014.10.006. Epub 2014 Nov 12. PMID: 25525791; PMCID: PMC4272434.
+Hang, S., Purdy, A. E., Robins, W. P., Wang, Z., Mandal, M., Chang, S., Mekalanos, J. J., & Watnick, P. I. (2014). The acetate switch of an intestinal pathogen disrupts host insulin signaling and lipid metabolism. Cell host & microbe, 16(5), 592–604. https://doi.org/10.1016/j.chom.2014.10.006
 
-Muzhingi I, Prado C, Sylla M, Diehl FF, Nguyen DK, Servos MM, Flores Ramos S, Purdy AE. Modulation of CrbS-Dependent Activation of the Acetate Switch in Vibrio cholerae. J Bacteriol. 2018 Nov 6;200(23):e00380-18. doi: 10.1128/JB.00380-18. PMID: 30224439; PMCID: PMC6222196.
+Muzhingi, I., Prado, C., Sylla, M., Diehl, F. F., Nguyen, D. K., Servos, M. M., Flores Ramos, S., & Purdy, A. E. (2018). Modulation of CrbS-Dependent Activation of the Acetate Switch in Vibrio cholerae. Journal of bacteriology, 200(23), e00380-18. https://doi.org/10.1128/JB.00380-18
 
-Byrd AL, Belkaid Y, Segre JA. The human skin microbiome. Nat Rev Microbiol. 2018 Mar;16(3):143-155. doi: 10.1038/nrmicro.2017.157. Epub 2018 Jan 15. PMID: 29332945.
+Byrd, A. L., Belkaid, Y., & Segre, J. A. (2018). The human skin microbiome. Nature reviews. Microbiology, 16(3), 143–155. https://doi.org/10.1038/nrmicro.2017.157
 
-Proctor DM, Dangana T, Sexton DJ, Fukuda C, Yelin RD, Stanley M, Bell PB, Baskaran S, Deming C, Chen Q, Conlan S, Park M; NISC Comparative Sequencing Program, Welsh RM, Vallabhaneni S, Chiller T, Forsberg K, Black SR, Pacilli M, Kong HH, Lin MY, Schoeny ME, Litvintseva AP, Segre JA, Hayden MK. Integrated genomic, epidemiologic investigation of Candida auris skin colonization in a skilled nursing facility. Nat Med. 2021 Aug;27(8):1401-1409. doi: 10.1038/s41591-021-01383-w. Epub 2021 Jun 21. PMID: 34155414.
+Proctor, D. M., Dangana, T., Sexton, D. J., Fukuda, C., Yelin, R. D., Stanley, M., Bell, P. B., Baskaran, S., Deming, C., Chen, Q., Conlan, S., Park, M., NISC Comparative Sequencing Program, Welsh, R. M., Vallabhaneni, S., Chiller, T., Forsberg, K., Black, S. R., Pacilli, M., Kong, H. H., … Hayden, M. K. (2021). Integrated genomic, epidemiologic investigation of Candida auris skin colonization in a skilled nursing facility. Nature medicine, 27(8), 1401–1409. https://doi.org/10.1038/s41591-021-01383-w
 
+#### Microbiota-gut-brain axis 
+Mohajeri, M. H., La Fata, G., Steinert, R. E., & Weber, P. (2018). Relationship between the gut microbiome and brain function. Nutrition reviews, 76(7), 481–496. https://doi.org/10.1093/nutrit/nuy009
+
+González-Arancibia, C., Urrutia-Piñones, J., Illanes-González, J., Martinez-Pinto, J., Sotomayor-Zárate, R., Julio-Pieper, M., & Bravo, J. A. (2019). Do your gut microbes affect your brain dopamine?. Psychopharmacology, 236(5), 1611–1622. https://doi.org/10.1007/s00213-019-05265-5
+
+Meckel, K. R., & Kiraly, D. D. (2019). A potential role for the gut microbiome in substance use disorders. Psychopharmacology, 236(5), 1513–1530. https://doi.org/10.1007/s00213-019-05232-0
+
+Kiraly, D., Walker, D., Calipari, E. et al. Alterations of the Host Microbiome Affect Behavioral Responses to Cocaine. Sci Rep 6, 35455 (2016). https://doi.org/10.1038/srep35455
 
 ### Visual Experience / Capabilities
-Cohen MA, Botch TL, Robertson CE. The limits of color awareness during active, real-world vision. Proc Natl Acad Sci U S A. 2020 Jun 16;117(24):13821-13827. doi: 10.1073/pnas.1922294117. Epub 2020 Jun 8. PMID: 32513698; PMCID: PMC7306755.
+Cohen, M. A., Botch, T. L., & Robertson, C. E. (2020). The limits of color awareness during active, real-world vision. Proceedings of the National Academy of Sciences of the United States of America, 117(24), 13821–13827. https://doi.org/10.1073/pnas.1922294117
 
-Cohen MA, Ostrand C, Frontero N, Pham PN. Characterizing a snapshot of perceptual experience. J Exp Psychol Gen. 2021 Sep;150(9):1695-1709. doi: 10.1037/xge0000864. Epub 2021 Feb 1. PMID: 33523689.
+Cohen, M. A., Ostrand, C., Frontero, N., & Pham, P. N. (2021). Characterizing a snapshot of perceptual experience. Journal of experimental psychology. General, 150(9), 1695–1709. https://doi.org/10.1037/xge0000864
 
 ### Neuro Case Studies
 [Craniopagus twins connected by a thalamus bridge: sharing sensory experiences?](https://www.nytimes.com/2011/05/29/magazine/could-conjoined-twins-share-a-mind.html)
 
 [Auguste D. (patient) & Aloysius Alzheimer: First behavioral and cellular characterizations of Alzheimer's Disease](https://alzheimer.neurology.ucla.edu/pubs/alzheimerLancet.pdf) 
 - See also: [Scientific misconduct in AD research](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease#sidebar)
+
 
 
 
