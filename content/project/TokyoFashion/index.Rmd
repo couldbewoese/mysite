@@ -15,15 +15,11 @@ url_slides: ""
 url_video: ""
 ---
 
-An essay written for my Architecture/Asian Languages & Civilizations course that explores how Tokyo and Japan's spaces influenced the "Big Three" designers (Issey Miyake, Kawakubo Rei, and Yohji Yamamoto) that revolutionized the global fashion scene after their 1980's debuts in Paris. 
+This essay was written for my [Architecture/Asian Languages & Civilizations course](https://www.amherst.edu/academiclife/departments/courses/2122S/ASLC/ASLC-220-2122S) and provides a background the instrumental contributions of the "Big Three" designers from Japan that revolutionized the global fashion scene from the 1980s. It explores how Tokyo and Japan's spaces influenced the work and lives of the designers and why they had to come from Tokyo and not one of the more established fashion cities of the time (Paris, Milan, New York). Undoubtedly, their work presented here was instrumental in making Tokyo the fashion destination it is today.
 
 Essay available [here](TokyoFashion.pdf)
 ```{r echo=FALSE}
 xfun::embed_file("TokyoFashion.pdf")
 ```
 
-<object data="http://https://skylersung.netlify.app/TokyoFashion.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://skylersung.netlify.app//TokyoFashion.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://skylersung.netlify.app//TokyoFashion.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
