@@ -63,6 +63,7 @@ Cohen, M. A., Ostrand, C., Frontero, N., & Pham, P. N. (2021). Characterizing a 
 [Auguste D. (patient) & Aloysius Alzheimer: First behavioral and cellular characterizations of Alzheimer's Disease](https://alzheimer.neurology.ucla.edu/pubs/alzheimerLancet.pdf) 
 - See also: [Scientific misconduct in AD research](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease#sidebar)
 
+[Altered consciousness: A psychotherapist's account of a man who claims his thoughts are under surveillance by an imaginary council](https://pcsp.libraries.rutgers.edu/index.php/pcsp/article/view/2072/3479)
 
 
 
