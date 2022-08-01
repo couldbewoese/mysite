@@ -21,10 +21,9 @@ Essay available [here](TokyoFashion.pdf)
 ```{r echo=FALSE}
 xfun::embed_file("TokyoFashion.pdf")
 ```
-```{r echo=FALSE}
+
 <object data="http://https://skylersung.netlify.app/TokyoFashion.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://skylersung.netlify.app//TokyoFashion.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://skylersung.netlify.app//TokyoFashion.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-```
