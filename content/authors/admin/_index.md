@@ -9,7 +9,7 @@ interests:
 organizations:
 - name: Amherst College
   url: https://www.amherst.edu/
-role: Student, Researcher
+role: Student
 social:
 - icon: envelope
   icon_pack: fas
