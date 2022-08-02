@@ -24,5 +24,4 @@ I presented my findings to the Transnational and Functional Genomics Branch of t
 
 - [Poster](NHGRI.pdf)
 - [Annotation Code - Github](https://github.com/couldbewoese/funannotate_script.git)
-- [Student Summer Research Highlights - Amherst STEM Network](https://www.amherststemnetwork.com/2021/06/25/fighting-a-fungal-pathogen-by-inspecting-the-genome/)
 

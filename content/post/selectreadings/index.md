@@ -16,8 +16,7 @@ projects: []
 subtitle: ""
 summary: "Highlighted readings I found interesting and/or relevant to my study"
 tags:
-- Academic
-- Literature
+  - returnto
 title: Selected Readings
 ---
 
@@ -61,7 +60,7 @@ Cohen, M. A., Ostrand, C., Frontero, N., & Pham, P. N. (2021). Characterizing a 
 [Craniopagus twins connected by a thalamus bridge: sharing sensory experiences?](https://www.nytimes.com/2011/05/29/magazine/could-conjoined-twins-share-a-mind.html)
 
 [Auguste D. (patient) & Aloysius Alzheimer: First behavioral and cellular characterizations of Alzheimer's Disease](https://alzheimer.neurology.ucla.edu/pubs/alzheimerLancet.pdf) 
-- Also see: [Decades of scientific misconduct in AD research revealed in 2022](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease#sidebar)
+-  [AD research misconduct](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease#sidebar)
 
 [Altered consciousness: A psychotherapist's account of a man who claims his thoughts are under surveillance by an imaginary council](https://pcsp.libraries.rutgers.edu/index.php/pcsp/article/view/2072/3479)
 
