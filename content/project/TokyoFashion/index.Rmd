@@ -15,7 +15,7 @@ url_slides: ""
 url_video: ""
 ---
 
-This essay was written for my [Architecture/Asian Languages & Civilizations course](https://www.amherst.edu/academiclife/departments/courses/2122S/ASLC/ASLC-220-2122S) and provides a background on the instrumental contributions of the "Big Three" designers from Japan that revolutionized the global fashion scene from the 1980s. It explores how Tokyo and Japan's lived spaces and history of attire restrictions influenced the work and lives of the designers and why they had to come from Tokyo and not one of the more established fashion cities of the time (Paris, Milan, New York). Undoubtedly, their work presented here was instrumental in making Tokyo the fashion destination it is today.
+This essay was written for my [Architecture/Asian Languages & Civilizations course](https://www.amherst.edu/academiclife/departments/courses/2122S/ASLC/ASLC-220-2122S) and provides a background on the instrumental contributions of the "Big Three" designers from Japan that revolutionized the global fashion scene from the 1980s. It explores how Tokyo and Japan's lived spaces and history of attire restrictions influenced the work and lives of the designers and why they had to come from Tokyo. 
 
 Essay available [here](TokyoFashion.pdf)
 ```{r echo=FALSE}
