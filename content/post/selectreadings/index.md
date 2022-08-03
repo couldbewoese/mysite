@@ -57,7 +57,7 @@ Cohen, M. A., Botch, T. L., & Robertson, C. E. (2020). The limits of color aware
 Cohen, M. A., Ostrand, C., Frontero, N., & Pham, P. N. (2021). Characterizing a snapshot of perceptual experience. Journal of experimental psychology. General, 150(9), 1695–1709. https://doi.org/10.1037/xge0000864
 
 ### Neuro Case Studies
-[Craniopagus twins connected by a thalamus bridge: sharing sensory experiences?](https://www.nytimes.com/2011/05/29/magazine/could-conjoined-twins-share-a-mind.html)
+[Craniopagus twins connected by a thalamus bridge: Sharing sensory experiences?](https://www.nytimes.com/2011/05/29/magazine/could-conjoined-twins-share-a-mind.html)
 
 [Auguste D. (patient) & Aloysius Alzheimer: First behavioral and cellular characterizations of Alzheimer's Disease](https://alzheimer.neurology.ucla.edu/pubs/alzheimerLancet.pdf) 
 -  [AD research misconduct](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease#sidebar)
