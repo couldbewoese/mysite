@@ -4,7 +4,7 @@ email: ssung23@amherst.edu
 highlight_name: yes
 interests:
 - Microbiology x Neuroscience 
-  - How are hosts and microbes communicating? How are gut microbes modulating "our" brains? If their genetic products play a significant role in our health, are we ready to consider their genomes as part of "us"?
+\n\t  - How are hosts and microbes communicating? How are gut microbes modulating "our" brains? If their genetic products play a significant role in our health, are we ready to consider their genomes as part of "us"?
   - Why do we believe we have a rich perception of the visual world when many peripheral and attentional tasks indicate otherwise? Are we simply overestimating our ability or are our brains wired with mechanisms to inflate or fill-in our world? 
 - Photography ([site](https://www.skylersung.com))
 - Hiking
