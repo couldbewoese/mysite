@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: 
 slides: #example
-summary: An example of using the in-built project page.
+summary: #An example of using the in-built project page.
 tags:
 - Tokyo
 title: The Disruptive Force of the Big Three of Japanese Fashion and Why They Had to Emerge from Tokyo
