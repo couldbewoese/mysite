@@ -1,0 +1,64 @@
+0000000000000000000000000000000000000000 4e2ef7102ae7772e2e3ef9b6826878440696564f couldbewoese <ssung23@amherst.edu> 1655081985 -0400	clone: from https://github.com/couldbewoese/mysite.git
+4e2ef7102ae7772e2e3ef9b6826878440696564f f67f058826bb548c98ee69a6588b8c65eed4baa2 couldbewoese <ssung23@amherst.edu> 1655082425 -0400	commit: Commit1
+f67f058826bb548c98ee69a6588b8c65eed4baa2 0d99bb8705d2b89088835871d2f6f0cc6f5c89c8 couldbewoese <ssung23@amherst.edu> 1655083789 -0400	commit: Commit2
+0d99bb8705d2b89088835871d2f6f0cc6f5c89c8 ebbcf6eb5e9c2259e78f3634d7297105d849ed00 couldbewoese <ssung23@amherst.edu> 1655084237 -0400	commit: Commit3
+ebbcf6eb5e9c2259e78f3634d7297105d849ed00 58035f733434ac9b4989ebccb8af6d5f8d5bd7f5 couldbewoese <ssung23@amherst.edu> 1655086321 -0400	commit (amend): Commit3
+58035f733434ac9b4989ebccb8af6d5f8d5bd7f5 39bd816989d6a2aed432cdccff78ac23f5cf0f4e couldbewoese <ssung23@amherst.edu> 1655088950 -0400	commit (amend): Commit3
+39bd816989d6a2aed432cdccff78ac23f5cf0f4e c8900dd59fbe0e4af8d1cd6ee703ba4b00a71c4e couldbewoese <ssung23@amherst.edu> 1655133294 -0400	commit (amend): Commit3
+c8900dd59fbe0e4af8d1cd6ee703ba4b00a71c4e ebbcf6eb5e9c2259e78f3634d7297105d849ed00 couldbewoese <ssung23@amherst.edu> 1655135357 -0400	pull --rebase (start): checkout ebbcf6eb5e9c2259e78f3634d7297105d849ed00
+ebbcf6eb5e9c2259e78f3634d7297105d849ed00 630a84055053a63dfc619492909509d525715f54 couldbewoese <ssung23@amherst.edu> 1655135357 -0400	pull --rebase (pick): Commit3
+630a84055053a63dfc619492909509d525715f54 630a84055053a63dfc619492909509d525715f54 couldbewoese <ssung23@amherst.edu> 1655135357 -0400	pull --rebase (finish): returning to refs/heads/main
+630a84055053a63dfc619492909509d525715f54 e8d8d6f88186f2d90982d9d39130a5d20e2e3e8a couldbewoese <ssung23@amherst.edu> 1655146284 -0400	commit: Commit4
+e8d8d6f88186f2d90982d9d39130a5d20e2e3e8a ee5001ce95db0ed29f77f0d3ccf613ae8c09faa1 couldbewoese <ssung23@amherst.edu> 1655146346 -0400	commit: Commmit4
+ee5001ce95db0ed29f77f0d3ccf613ae8c09faa1 a6ba69dbad8e807db207ae46294b29d6dc0e174b couldbewoese <ssung23@amherst.edu> 1655157842 -0400	commit (amend): Commmit4
+a6ba69dbad8e807db207ae46294b29d6dc0e174b 313c5274e4c5dd667fc4d0b1f55be896349b0686 couldbewoese <ssung23@amherst.edu> 1655157870 -0400	pull: Merge made by the 'recursive' strategy.
+313c5274e4c5dd667fc4d0b1f55be896349b0686 d1bf04f3bc4867c4a7d67667fcb5513f354976e1 couldbewoese <ssung23@amherst.edu> 1655158344 -0400	commit (amend): Merge branch 'main' of https://github.com/couldbewoese/mysite
+d1bf04f3bc4867c4a7d67667fcb5513f354976e1 6aa7f423020c9368a162c2acb4d92431e8797004 couldbewoese <ssung23@amherst.edu> 1655158365 -0400	pull: Merge made by the 'recursive' strategy.
+6aa7f423020c9368a162c2acb4d92431e8797004 a9492be49dc79c28fd49b466c3746ab4995e3b3b couldbewoese <ssung23@amherst.edu> 1655158456 -0400	commit: Commit5
+a9492be49dc79c28fd49b466c3746ab4995e3b3b 20291a7868901358604226153c3a37b73499421e couldbewoese <ssung23@amherst.edu> 1655164234 -0400	commit: Commit6
+20291a7868901358604226153c3a37b73499421e 7a67e882c3ee059855c94c6a3cd4621268abd2c8 couldbewoese <ssung23@amherst.edu> 1655164465 -0400	commit: Commit7
+7a67e882c3ee059855c94c6a3cd4621268abd2c8 a5fe0486328c2615a305070ce9206541b5f4f8dd couldbewoese <ssung23@amherst.edu> 1655165493 -0400	commit: commit9
+a5fe0486328c2615a305070ce9206541b5f4f8dd 3e5fdbc8a6c788c16c26d808918bb282fcddf38d couldbewoese <ssung23@amherst.edu> 1655167606 -0400	commit: Commit10
+3e5fdbc8a6c788c16c26d808918bb282fcddf38d 2bfee66617f318f8ce9896e404c967fd4c089d4b couldbewoese <ssung23@amherst.edu> 1655302053 -0400	commit: Commit11
+2bfee66617f318f8ce9896e404c967fd4c089d4b 8bb76f82da024b88f29d40ede4dfee4a10c74312 couldbewoese <ssung23@amherst.edu> 1655317003 -0400	commit: Commit12
+8bb76f82da024b88f29d40ede4dfee4a10c74312 70cee085e9bc37eb77d2ad47bc984226545d5a9b couldbewoese <ssung23@amherst.edu> 1655391003 -0400	commit: Commit6/16
+70cee085e9bc37eb77d2ad47bc984226545d5a9b e725391181700f062d1e5814092aaef40fe2f3f5 couldbewoese <ssung23@amherst.edu> 1655391769 -0400	commit: Commit0612_2
+e725391181700f062d1e5814092aaef40fe2f3f5 c7039d48b5333aa2f17c7217ac21ed68521c7350 couldbewoese <ssung23@amherst.edu> 1655392940 -0400	commit: Commiticon
+c7039d48b5333aa2f17c7217ac21ed68521c7350 4d2829a949cbcdd1c8f569bb64ed4e31f5026e6f couldbewoese <ssung23@amherst.edu> 1655393232 -0400	commit: Remove Icon
+4d2829a949cbcdd1c8f569bb64ed4e31f5026e6f 601a0207e5bf2bb8e42f2b032faa7617660627fb couldbewoese <ssung23@amherst.edu> 1656623714 -0400	commit: Commit630
+601a0207e5bf2bb8e42f2b032faa7617660627fb a7d2f7d8ef764156c619653cdce065dbeaabd430 couldbewoese <ssung23@amherst.edu> 1659370307 -0400	commit: 8/1 commit 1st
+a7d2f7d8ef764156c619653cdce065dbeaabd430 aceaab4c33a2e01d2c3466e5a54436a457f71510 couldbewoese <ssung23@amherst.edu> 1659370524 -0400	commit: Cmmit2
+aceaab4c33a2e01d2c3466e5a54436a457f71510 f2d3431b9a484a301fb538c7c434f9cbb2c24b06 couldbewoese <ssung23@amherst.edu> 1659370593 -0400	commit: Commit3
+f2d3431b9a484a301fb538c7c434f9cbb2c24b06 e26332a209098e17b20fd10ef8e9598c3e6ae3d5 couldbewoese <ssung23@amherst.edu> 1659370808 -0400	commit: Commitdeletedup
+e26332a209098e17b20fd10ef8e9598c3e6ae3d5 83fa17f1f4eb4b2a044d0580cc6df7be930740de couldbewoese <ssung23@amherst.edu> 1659371835 -0400	commit: CommitTokyo
+83fa17f1f4eb4b2a044d0580cc6df7be930740de f06c1c493e8ffab93a57bc45ccc71f0f60a4f1ed couldbewoese <ssung23@amherst.edu> 1659372074 -0400	commit: commitedittokyo
+f06c1c493e8ffab93a57bc45ccc71f0f60a4f1ed c5ad8613994bf0af8b8861e3f05dfad6b6c85838 couldbewoese <ssung23@amherst.edu> 1659374287 -0400	commit: CommitReadings
+c5ad8613994bf0af8b8861e3f05dfad6b6c85838 ecef74f1f34b9691b5d485b3263d74762cd97686 couldbewoese <ssung23@amherst.edu> 1659376006 -0400	commit: commitdeletProj
+ecef74f1f34b9691b5d485b3263d74762cd97686 c7b80e7f874fe1b2df4a0f07862c5cee5ee452eb couldbewoese <ssung23@amherst.edu> 1659380695 -0400	commit: CommitAD
+c7b80e7f874fe1b2df4a0f07862c5cee5ee452eb eac39a3813ab34327ecd172e3bf42ccb171a8568 couldbewoese <ssung23@amherst.edu> 1659381437 -0400	commit: CReadings
+eac39a3813ab34327ecd172e3bf42ccb171a8568 6b9fdc7223b9a0332bbc853ae9b978cda96b7893 couldbewoese <ssung23@amherst.edu> 1659381864 -0400	commit: Readig
+6b9fdc7223b9a0332bbc853ae9b978cda96b7893 5da18ba3e887f5f900aac6a9859674d4087007f9 couldbewoese <ssung23@amherst.edu> 1659382394 -0400	commit: a
+5da18ba3e887f5f900aac6a9859674d4087007f9 c50c2180a9cbc0f5ce7b19915fcf762a8637ddbe couldbewoese <ssung23@amherst.edu> 1659382572 -0400	commit: b
+c50c2180a9cbc0f5ce7b19915fcf762a8637ddbe f50ddd2d5d90968e0b92b98611d7572b54567256 couldbewoese <ssung23@amherst.edu> 1659382709 -0400	commit: c
+f50ddd2d5d90968e0b92b98611d7572b54567256 5d19f08d8cb865a0761f3f87ac7a058a49321816 couldbewoese <ssung23@amherst.edu> 1659382778 -0400	commit: d
+5d19f08d8cb865a0761f3f87ac7a058a49321816 53a01124befc4439b7c8bb27667d10df0a29197e couldbewoese <ssung23@amherst.edu> 1659386644 -0400	commit: e
+53a01124befc4439b7c8bb27667d10df0a29197e 41d54c1e1144baa83f7f67fe482d06764aa0594b couldbewoese <ssung23@amherst.edu> 1659412434 -0400	commit: f
+41d54c1e1144baa83f7f67fe482d06764aa0594b d837ad2aab608fe7d9ce92200d30e6bcce88c3cd couldbewoese <ssung23@amherst.edu> 1659412525 -0400	commit: g
+d837ad2aab608fe7d9ce92200d30e6bcce88c3cd 0db3145db276ddd79e06eaa97cf7fd755b214618 couldbewoese <ssung23@amherst.edu> 1659412566 -0400	commit: h
+0db3145db276ddd79e06eaa97cf7fd755b214618 4d35a4c4f9283f58a38f5c3e407e115e06abc93c couldbewoese <ssung23@amherst.edu> 1659412794 -0400	commit: h
+4d35a4c4f9283f58a38f5c3e407e115e06abc93c d291733503a8596c67813568c3a99ae29ff4b039 couldbewoese <ssung23@amherst.edu> 1659413057 -0400	commit: it
+d291733503a8596c67813568c3a99ae29ff4b039 c28e676fe8579d9c603d6d65fda586bf83ca061d couldbewoese <ssung23@amherst.edu> 1659413276 -0400	commit: undoub
+c28e676fe8579d9c603d6d65fda586bf83ca061d 86e5b6895cd943883b4c727230a0f4801f3b8545 couldbewoese <ssung23@amherst.edu> 1659560283 -1000	commit: z
+86e5b6895cd943883b4c727230a0f4801f3b8545 4c89a80487bf3733c1c782b2510f19e0f0bdca03 couldbewoese <ssung23@amherst.edu> 1659560484 -1000	commit: zz
+4c89a80487bf3733c1c782b2510f19e0f0bdca03 ddf2b1ee5d06bf4766657a2140a426bb5a9ea7da couldbewoese <ssung23@amherst.edu> 1659646294 -1000	commit: bio
+ddf2b1ee5d06bf4766657a2140a426bb5a9ea7da 9a900b8599b94ed5307394ef7e19c28fb47023a5 couldbewoese <ssung23@amherst.edu> 1659646521 -1000	commit: nt
+9a900b8599b94ed5307394ef7e19c28fb47023a5 802f00f04f49b2015ecac820afb44f51314edf15 couldbewoese <ssung23@amherst.edu> 1659646659 -1000	commit: d
+802f00f04f49b2015ecac820afb44f51314edf15 3b9a4902b744db0f57ce63085e933e0af7baabd5 couldbewoese <ssung23@amherst.edu> 1659646953 -1000	commit: sss
+3b9a4902b744db0f57ce63085e933e0af7baabd5 d04dc5aa38bb15dc8919c694a789a5f05d8aa92b couldbewoese <ssung23@amherst.edu> 1659648347 -1000	commit: intrests
+d04dc5aa38bb15dc8919c694a789a5f05d8aa92b 972edb7854b0822dbdc3df891bddaf37b7369e3d couldbewoese <ssung23@amherst.edu> 1659648596 -1000	commit: Newinterests
+972edb7854b0822dbdc3df891bddaf37b7369e3d 62d54ed07a96493489b62934f070f70ef0e58113 couldbewoese <ssung23@amherst.edu> 1659649117 -1000	commit: sss
+62d54ed07a96493489b62934f070f70ef0e58113 3042907a44bdaa40d9163fbbebdfbc1ee33db473 couldbewoese <ssung23@amherst.edu> 1660102072 -1000	commit: Avatar
+3042907a44bdaa40d9163fbbebdfbc1ee33db473 30647545fd874e03374778c666cb7f8bf769f633 couldbewoese <ssung23@amherst.edu> 1660106629 -1000	commit: ResearchProp1
+30647545fd874e03374778c666cb7f8bf769f633 ad961c931de8a9f722f7010998777c1dca8ebeb2 couldbewoese <ssung23@amherst.edu> 1660107440 -1000	commit: Image
+ad961c931de8a9f722f7010998777c1dca8ebeb2 a662a77f55b7276019350538603a04caa4bf1103 couldbewoese <ssung23@amherst.edu> 1660107545 -1000	commit: featured.jpg
+a662a77f55b7276019350538603a04caa4bf1103 49075f826381359b0983c1bd27d581ba82915caa couldbewoese <ssung23@amherst.edu> 1668787619 -0500	commit: Edittopreviewoftokyo
