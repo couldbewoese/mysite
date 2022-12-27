@@ -15,7 +15,7 @@ url_slides: ""
 url_video: ""
 ---
 
-This essay was written for my [Architecture/Asian Languages & Civilizations course](https://www.amherst.edu/academiclife/departments/courses/2122S/ASLC/ASLC-220-2122S) and provides a background on the instrumental contributions of the "Big Three" designers from Japan (Issey Miyake [三宅 一生], Rei Kawakubo [川久 保玲], & Yohji Yamamoto [山本 耀司] that revolutionized the global fashion scene from the 1980s. It explores how Tokyo and Japan's lived spaces, sustained culture, and history of attire restrictions influenced the work and lives of the designers and why they had to come from Tokyo. Special emphasis is placed on how their upbringing during the tumultuous post-war years influenced their worldview and craft.
+This essay was written for my [Architecture/Asian Languages & Civilizations course](https://www.amherst.edu/academiclife/departments/courses/2122S/ASLC/ASLC-220-2122S) and provides a background on the instrumental contributions of the "Big Three" designers from Japan (Issey Miyake [三宅 一生], Rei Kawakubo [川久 保玲], & Yohji Yamamoto [山本 耀司]) that revolutionized the global fashion scene from the 1980s. It explores how Tokyo and Japan's lived spaces, sustained culture, and history of attire restrictions influenced the work and lives of the designers and why they had to come from Tokyo. Special emphasis is placed on how their upbringing during the tumultuous post-war years influenced their worldview and craft.
 
 Essay available [here](TokyoFashion.pdf)
 ```{r echo=FALSE}
