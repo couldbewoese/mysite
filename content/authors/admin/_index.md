@@ -32,8 +32,7 @@ In the summer of 2021, I gained a greater appreciation of the clinical implicati
 - Microbiology x Neuroscience 
     - How do hosts and microbes communicate with each other? How does that communication differ between mutualistic and parasitic residents? 
     - How are gut microbes modulating "our" brains? How much control do they have over our mood, desires, and actions? If their genetic products play a significant role in our health, are we ready to consider their genomes as part of "us"?
-    - Why do we believe we have a rich perception of the visual world when many peripheral and attentional tasks indicate otherwise? Are we simply overestimating our ability or are our brains wired with mechanisms to inflate or fill-in our world? 
+- Perception
+    - Why do we believe we have a rich perception of the visual world when many peripheral and attentional tasks indicate otherwise? 
 - Photography ([site](https://www.skylersung.com))
 - Hiking
-
-Resume available upon request. 
