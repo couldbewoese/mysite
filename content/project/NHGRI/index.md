@@ -18,9 +18,9 @@ url_slides: ""
 url_video: ""
 ---
 
-In the [Segre Lab](https://www.genome.gov/staff/Julie-Segre-PhD) at the NHGRI, I worked with *Candida auris* nanopore and RNA sequences from a US hospital outbreak to develop an in-house annotation pipeline for the fungus's genome that utilizes [Funannotate](https://github.com/nextgenusfs/funannotate). Annotation of the genome is a critical step in finding pathogenic features and differences between clades. I tested several training parameters and compared the outputs of my annotations to those made by NISC (NIH Intramural Sequencing Center) and available in NCBI's GenBank. This effort was possible through the invaluable guidance and support by [Diana Proctor](https://dmap02.github.io/personal-website/).
+In the [Segre Lab](https://www.genome.gov/staff/Julie-Segre-PhD) at the NHGRI, I worked with *Candida auris* nanopore and RNA sequences from a US hospital outbreak to develop an in-house annotation pipeline for the fungus's genome that utilizes [Funannotate](https://github.com/nextgenusfs/funannotate). Annotation of the genome is a critical step in finding pathogenic features and differences between clades/geographic outbreaks. I tested several training parameters and compared the outputs of my annotations to those made by NISC (NIH Intramural Sequencing Center) and available in NCBI's GenBank. This effort was made possible through invaluable guidance and support from [Diana Proctor](https://dmap02.github.io/personal-website/).
 
-I presented my findings to the Transnational and Functional Genomics Branch of the NHGRI and at the NIH summer poster session. 
+I presented my findings to the [Translational and Functional Genomics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Translational-Functional-Genomics-Branch#:~:text=The%20Translational%20and%20Functional%20Genomics,metagenomic%20basis%20of%20human%20disorders) of the NHGRI and at the NIH summer poster session. 
 
 - [Poster](NHGRI.pdf)
 - [Annotation Code - Github](https://github.com/couldbewoese/funannotate_script.git)
