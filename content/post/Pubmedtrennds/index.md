@@ -5,7 +5,7 @@ categories:
 - Readings
 date: "2023-06-23T00:00:00Z"
 draft: false
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
