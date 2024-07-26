@@ -1,5 +1,5 @@
 ---
-title: "Featured Publications"
+title: "Publications"
 headless: true
 weight: 80
 widget: featured

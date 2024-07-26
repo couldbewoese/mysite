@@ -37,6 +37,4 @@ At the NHGRI, I gained a greater appreciation of the clinical implications of st
     - How do hosts and microbes communicate with each other? How does that communication differ between mutualistic and parasitic residents? 
     - How can we develop personalized gut microbiota interventions to improve food metabolism and drug efficacy?
     - How are gut microbes modulating "our" brains? How much control do they have over our mood, desires, and actions? If their genetic products play a significant role in our health, are we ready to consider their genomes as part of "us"?
-- Perception
-    -
 - Photography ([site](https://www.skylersung.com))
