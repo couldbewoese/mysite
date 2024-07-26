@@ -1,6 +1,6 @@
 ---
 title: "Skyler Sung"
-email: ssung23@amherst.edu
+email: 
 highlight_name: yes
 organizations:
 - name: Amherst College
@@ -20,10 +20,12 @@ social:
   icon_pack: fas
   link: https://skylersung.com/
 superuser: yes
-bio: Neuroscience Undergraduate Student
+bio:
 ---
 
-I am a senior Neuroscience undergraduate at Amherst College. My research experiences have involved host-microbe symbioses, microbiology, and computational genomics. Currently, I am conducting thesis research in visual perception with [Michael Cohen](http://www.michaelacohen.net/research-interests.html).
+I am a researcher at the University of California, San Francisco studying the interaction between the gut microbiome and Parkinson Disease treatment. My research experiences have involved host-microbe symbioses, microbiology, and computational genomics.
+
+I conducted my  undergraduate thesis research in visual perception with [Michael Cohen](http://www.michaelacohen.net/research-interests.html).
 
 I first formed an interest in host-microbe interactions while studying the mono-specific mutualism between the Hawaiian bobtail squid and *Vibrio fischeri* in the [McFall-Ngai/Ruby](https://www.glowingsquid.org/index.php) labs. At Amherst, I spent my second and third year working in [Alix Purdy](http://www.apurdylab.org/)'s lab studying colonization-relevant metabolic pathways in *Vibrio fischeri*. 
 In the summer of 2021, I gained a greater appreciation of the clinical implications of studying bacterial residents on and in humans at the NHGRI in [Julie Segre](https://www.genome.gov/staff/Julie-Segre-PhD)'s lab. There, I worked with [Diana Proctor](https://dmap02.github.io/personal-website/index.html) to develop computational biology skills and annotate fungal pathogen *Candida auris*'s genome from a hospital outbreak in the US. 
