@@ -10,20 +10,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
+- icon: university
+  icon_pack: fas
+  link: https://orcid.org/0009-0001-6158-3436
 - icon: github
   icon_pack: fab
   link: https://github.com/couldbewoese
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/skyler-sung-48755718b
-- icon: camera-alt
-  icon_pack: fas
-  link: https://skylersung.com/
 superuser: yes
 bio:
 ---
 
-I am a researcher at the University of California, San Francisco studying the interaction between the gut microbiome and Parkinson Disease treatment. My research experiences have involved host-microbe symbioses, microbiology, and computational genomics.
+I am a researcher at the University of California, San Francisco studying the gut bacterial metabolism of Parkinson disease drug levodopa with [Peter Turnbaugh](https://turnbaughlab.ucsf.edu/better-living-through-gut-microbes). My research experiences have involved host-microbe symbioses, microbiology, and computational genomics.
+
+![Gut bacteria (Enteroccocus faecalis and Eggerthella lenta) sequentially degrade L-dopa](schematic.webp)
 
 I conducted my  undergraduate thesis research in visual perception with [Michael Cohen](http://www.michaelacohen.net/research-interests.html).
 
