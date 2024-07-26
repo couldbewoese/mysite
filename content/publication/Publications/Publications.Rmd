@@ -2,12 +2,12 @@
 authors:
 - admin
 categories:
-- Readings
-date: "2022-08-01T00:00:00Z"
+- Publications
+date: "2024-07-01T00:00:00Z"
 draft: false
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 
   focal_point: ""
   placement: 2
   preview_only: false
