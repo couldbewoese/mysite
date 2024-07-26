@@ -23,7 +23,7 @@ superuser: yes
 bio:
 ---
 
-I am a researcher at the University of California, San Francisco studying the gut bacterial metabolism of Parkinson disease drug levodopa with [Peter Turnbaugh](https://turnbaughlab.ucsf.edu/better-living-through-gut-microbes). This research utilizes ex vivo culturing of patient microbiota, NGS, mass spectrometry, and computational biology.
+I am a researcher at the University of California, San Francisco studying gut bacterial metabolism of Parkinson disease drug levodopa with [Peter Turnbaugh](https://turnbaughlab.ucsf.edu/better-living-through-gut-microbes). This research utilizes *ex vivo* culturing of patient microbiota, NGS, mass spectrometry, and computational biology.
 
 ![Gut bacteria (Enteroccocus faecalis and Eggerthella lenta) sequentially degrade L-dopa](schematic.webp)
 
