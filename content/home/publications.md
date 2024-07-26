@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 headless: true
-weight: 80
-widget: featured
+weight: 60
+widget: publications
 subtitle: ''
 content:
   page_type: publication
